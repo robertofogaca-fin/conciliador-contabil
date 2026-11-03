@@ -33,7 +33,7 @@ pytest
 ```
 
 ## Exemplo de resultado
-
+```
 === CONCILIADOS ===
 data_extrato      descricao_extrato data_razao        historico_razao   valor
   2026-10-01 TED RECEBIDA CLIENTE A 2026-10-01  Recebimento cliente A 15000.0
@@ -52,7 +52,7 @@ data_extrato      descricao_extrato data_razao        historico_razao   valor
 2026-10-09       Provisao despesa  -500.0
 
 Diferença total extrato - razão: R$ 3,606.00
-
+```
 ## Limitações e próximos passos
 
 - Conciliação 1 para N (um depósito que agrupa vários lançamentos)
